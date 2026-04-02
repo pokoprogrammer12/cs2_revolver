@@ -1,0 +1,4 @@
+flask
+sounddevice
+soundfile
+pynput
